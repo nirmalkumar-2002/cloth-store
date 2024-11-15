@@ -1,0 +1,110 @@
+@font-face{
+	
+	src:url("./Avenue.ttf");
+	font-family:Avenue;		}
+
+
+
+ 	h1{
+	
+	text-align:center;
+	font-family:Avenue;
+	font-size:4rem;
+	color:dimgrey;
+	text-shadow:8px 8px 8px grey;
+	border-style:inset;
+	border-color:grey;
+	border-width:20px;
+	border-radius:20px;
+	background-color:white;
+	margin-left:200px;
+	margin-right:200px;
+		             }
+
+
+ul{     background-color:beige;		
+	font-size:2rem;
+	font-family:Avenue;		
+	color:navy;
+	text-transform:uppercase;
+
+                                           	}
+	
+div{
+ 
+height:100vh;
+
+background-image:url("./bg2.jpeg");
+background-repeat:no-repeat;
+background-position:center;
+background-size:1200px 1200px;
+text-align:center;
+color:white;
+text-shadow:5px 5px 5px grey;
+font-size:3rem;
+
+}
+
+section p{
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 200px;
+}
+
+h2{	
+	padding-top:150px;
+				}
+
+section{
+
+	height:100vh;
+	background-image:url("./bg6.jpg"),url("./bg.jpg");
+	background-size:70%,100%;
+	background-repeat:no-repeat;
+	background-position:center;
+	
+                                }
+.mypara{
+	font-size:1rem;
+	text-align:center;
+	padding-top:200px;
+    border: 1px solid red;
+						}
+
+.secpara1
+{
+	font-size:5rem;
+	text-align:center;
+}
+.secpara2	 
+{
+font-size:1.7rem;
+margin-top:400px;
+}
+
+.para1{
+	background-image:url("./bg4.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	height:100vh;
+	font-size:3rem;
+	color:white;
+	letter-spacing:20px;
+	text-align:center;
+	padding-top:500px;
+					}
+
+
+#para1{				
+	background-image:url("./bg5.jpg");
+	background-repeat:no-repeat;
+	height:100vh;
+	font-size:2.5rem;
+	text-decoration:underline;
+	padding-left:80px;	
+	padding-top:200px;
+	word-spacing:30px;
+	line-height:100px;
+	color:navy;
+
+	}
